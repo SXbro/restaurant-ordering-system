@@ -58,3 +58,11 @@ Export order history to Excel/CSV
 Admin dashboard for analytics
 QR Code menu access from tables
 Cloud sync options
+
+
+## 📦 Installation
+
+```bash
+git clone https://github.com/SXbro/restaurant-ordering-system.git
+cd restaurant-ordering-system
+python main.py
